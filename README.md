@@ -1,8 +1,7 @@
 Hey there! I'm @leo-lungu.
 
 - Year 2 BSc Computer Science Student @ QMUL
-- I’m interested in software engineering
-- I’m currently learning how to code in Java, Python, JavaScript, PHP, HTML and CSS
+- Incoming Product Manager Intern
 
 - Right now I am going through The Odin Project's Fullstack JavaScript Development Course!
 
