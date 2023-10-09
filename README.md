@@ -1,7 +1,7 @@
 Hey there! I'm @leo-lungu.
-
-- Year 2 BSc Computer Science Student @ QMUL
-- Incoming Product Manager Intern
+- On exchange year at UPenn
+- Taking a break from QMUL
+- Product Manager Intern
 
 
 <!---
